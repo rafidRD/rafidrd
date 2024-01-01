@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 📫 **www.rdrex009@gmail.com**
-
 - ⚡ Fun fact **I love adventures more than tech**
 
 <h3 align="left">Connect with me:</h3>
