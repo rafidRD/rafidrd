@@ -24,8 +24,7 @@
 ## 👇🏼Stats
 
 <details>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidRD&layout=donut-vertical&theme=transparent&hide_border=true&card_width=260" alt="Most Used Language" />
-
+<table><tr><td width="71%">
 <p align="left">
   <a href="https://github.com/rafidrd">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafidrd&theme=transparent" />
@@ -36,7 +35,11 @@
   <a href="https://github.com/rafidrd">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafidrd&theme=transparent" />
   </a>
-</p>
+</p></td>
+<td width="29%">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidRD&layout=donut-vertical&theme=transparent&hide_border=true" alt="Most Used Language" />
+
+</td></tr></table>
  
 <table><tr><td valign="top" width="33%">
 
