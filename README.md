@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Rafid-009"><img src="https://i.ibb.co/NS1ng9N/46640857755.png"></a>
+<a href="https://github.com/rafidRD"><img src="https://i.ibb.co/NS1ng9N/46640857755.png"></a>
 <h1 align="center">Hey 👋, Rafid here.. </h1>
 <h3 align="center">I'm a creative soul, inspired by the beauty of life's imperfections.💫</h3>
 </p>
@@ -22,11 +22,11 @@
 <br/><br/>
 <br/>
 <hr>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafid-009&layout=donut-vertical&theme=dark" alt="Most Used Language" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidRD&layout=donut-vertical&theme=dark" alt="Most Used Language" />
 
 
- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rafid-009&theme=dark&background=000000)
+ ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafidRD&theme=dark&background=000000)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafid-009&&show_icons=true&title_color=ffffff&&text_color=daf7dc&bg_color=151515" alt="Rafid-009's Stats" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafidRD&&show_icons=true&title_color=ffffff&&text_color=daf7dc&bg_color=151515" alt="Rafid-009's Stats" /></p>
 
 
