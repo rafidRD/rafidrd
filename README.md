@@ -24,22 +24,28 @@
 ## 👇🏼Stats
 
 <details>
-<table><tr><td width="71%">
-<p align="left">
+<table><tr>
+  <td colspan="2">
   <a href="https://github.com/rafidrd">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafidrd&theme=transparent" />
   </a>
-  <a href="https://github.com/rafidrd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidrd&hide_border=true&card_width=338&theme=transparent" />
-  </a>
+  </td>
+  
+  <td width rowspan="2"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidRD&layout=donut-vertical&theme=transparent&hide_border=true" alt="Most Used Language" />
+  </td>  
+</tr>
+<tr>
+<td>
   <a href="https://github.com/rafidrd">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafidrd&theme=transparent" />
   </a>
-</p></td>
-<td width="29%">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafidRD&layout=donut-vertical&theme=transparent&hide_border=true" alt="Most Used Language" />
+</td>
+<td><a href="https://github.com/rafidrd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafidrd&hide_border=true&theme=transparent" />
+  </a>
+</td>
+</tr></table>
 
-</td></tr></table>
  
 <table><tr><td valign="top" width="33%">
 
